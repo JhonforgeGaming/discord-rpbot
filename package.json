@@ -30,7 +30,7 @@
 		"discord.js": "^13.6.0",
 		"yargs": "^17.3.1",
 		"common-tags": "^1.8.2",
-		"sqlite": "^3.38.0",
+		"sqlite": "^8.5.0",
 		"dice-expression-evaluator": "^0.1.2",
 		"universal-analytics": "^0.5.3"
 	},
